@@ -86,7 +86,7 @@ DINGTALK_WEBHOOK | https://oapi.dingtalk.com/robot/send?access_token=xxxx | 钉�
 
 # 申明
 
-本项目仅用于学习。
+本项目仅用于学1习。
 
 # 参考项目
 
